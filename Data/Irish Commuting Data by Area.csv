@@ -1,0 +1,133 @@
+﻿Broad_Industrial_Group,Travelling_Time,Travelling_Time_Number,Persons_at_work_2016_VALUE,Percentage_change_of_persons_at_work_2011_2016,Broad_Industrial_Group_Recoded
+"Agriculture, forestry and fishing (A)",< ¼ hour,1,19577,-4,2
+"Agriculture, forestry and fishing (A)",¼ hour - < ½ hour,15,9910,3.3,2
+"Agriculture, forestry and fishing (A)",½ hour - < ¾ hour,30,5557,2.7,2
+"Agriculture, forestry and fishing (A)",¾ hour - < 1 hour,45,1307,8.1,2
+"Agriculture, forestry and fishing (A)",1 hour - < 1½ hours,60,1878,18.9,2
+"Agriculture, forestry and fishing (A)",1½ hours and over,90,769,10.8,2
+Mining and quarrying (B),< ¼ hour,1,1245,-13.4,3
+Mining and quarrying (B),¼ hour - < ½ hour,15,1719,-8.5,3
+Mining and quarrying (B),½ hour - < ¾ hour,30,969,-2.8,3
+Mining and quarrying (B),¾ hour - < 1 hour,45,289,-5.3,3
+Mining and quarrying (B),1 hour - < 1½ hours,60,283,19.9,3
+Mining and quarrying (B),1½ hours and over,90,137,22.3,3
+Manufacturing (C),< ¼ hour,1,48163,2.2,4
+Manufacturing (C),¼ hour - < ½ hour,15,65629,6.6,4
+Manufacturing (C),½ hour - < ¾ hour,30,42344,13.8,4
+Manufacturing (C),¾ hour - < 1 hour,45,14609,17.5,4
+Manufacturing (C),1 hour - < 1½ hours,60,12594,26.7,4
+Manufacturing (C),1½ hours and over,90,4325,21.9,4
+"Electricity, gas, steam and air conditioning supply (D)",< ¼ hour,1,1500,1.6,5
+"Electricity, gas, steam and air conditioning supply (D)",¼ hour - < ½ hour,15,3360,4.8,5
+"Electricity, gas, steam and air conditioning supply (D)",½ hour - < ¾ hour,30,3303,12.4,5
+"Electricity, gas, steam and air conditioning supply (D)",¾ hour - < 1 hour,45,1447,22.2,5
+"Electricity, gas, steam and air conditioning supply (D)",1 hour - < 1½ hours,60,1645,35.8,5
+"Electricity, gas, steam and air conditioning supply (D)",1½ hours and over,90,712,52.5,5
+"Water supply; sewerage, waste management and remediation activities (E)",< ¼ hour,1,2194,-2.8,6
+"Water supply; sewerage, waste management and remediation activities (E)",¼ hour - < ½ hour,15,2998,-1.8,6
+"Water supply; sewerage, waste management and remediation activities (E)",½ hour - < ¾ hour,30,2215,10.6,6
+"Water supply; sewerage, waste management and remediation activities (E)",¾ hour - < 1 hour,45,798,31.7,6
+"Water supply; sewerage, waste management and remediation activities (E)",1 hour - < 1½ hours,60,917,43.5,6
+"Water supply; sewerage, waste management and remediation activities (E)",1½ hours and over,90,395,58,6
+Construction (F),< ¼ hour,1,11176,-2.9,7
+Construction (F),¼ hour - < ½ hour,15,19724,0.4,7
+Construction (F),½ hour - < ¾ hour,30,26325,13.4,7
+Construction (F),¾ hour - < 1 hour,45,8067,30.3,7
+Construction (F),1 hour - < 1½ hours,60,16035,51.2,7
+Construction (F),1½ hours and over,90,7578,62.5,7
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),< ¼ hour,1,80505,-3.8,8
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),¼ hour - < ½ hour,15,84010,-0.8,8
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),½ hour - < ¾ hour,30,49204,6.6,8
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),¾ hour - < 1 hour,45,15376,6.7,8
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),1 hour - < 1½ hours,60,14527,20.1,8
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),1½ hours and over,90,4803,17.7,8
+Transportation and storage (H),< ¼ hour,1,18279,-4.6,9
+Transportation and storage (H),¼ hour - < ½ hour,15,24569,8.3,9
+Transportation and storage (H),½ hour - < ¾ hour,30,16372,12.5,9
+Transportation and storage (H),¾ hour - < 1 hour,45,5235,10.9,9
+Transportation and storage (H),1 hour - < 1½ hours,60,5106,19.1,9
+Transportation and storage (H),1½ hours and over,90,2254,20.9,9
+Accommodation and food service activities (I),< ¼ hour,1,40566,5.4,10
+Accommodation and food service activities (I),¼ hour - < ½ hour,15,36242,13.3,10
+Accommodation and food service activities (I),½ hour - < ¾ hour,30,18991,24.7,10
+Accommodation and food service activities (I),¾ hour - < 1 hour,45,5260,23.6,10
+Accommodation and food service activities (I),1 hour - < 1½ hours,60,4771,37.6,10
+Accommodation and food service activities (I),1½ hours and over,90,1464,34.6,10
+Information and communication (J),< ¼ hour,1,10748,12.8,11
+Information and communication (J),¼ hour - < ½ hour,15,23175,24.5,11
+Information and communication (J),½ hour - < ¾ hour,30,21911,31.5,11
+Information and communication (J),¾ hour - < 1 hour,45,9883,42.3,11
+Information and communication (J),1 hour - < 1½ hours,60,10315,53.4,11
+Information and communication (J),1½ hours and over,90,3878,49.6,11
+Financial and insurance activities (K),< ¼ hour,1,9985,-14.4,12
+Financial and insurance activities (K),¼ hour - < ½ hour,15,22162,-9.3,12
+Financial and insurance activities (K),½ hour - < ¾ hour,30,23581,-4.3,12
+Financial and insurance activities (K),¾ hour - < 1 hour,45,12582,0.7,12
+Financial and insurance activities (K),1 hour - < 1½ hours,60,13523,15.9,12
+Financial and insurance activities (K),1½ hours and over,90,4187,16.9,12
+Real estate activities (L),< ¼ hour,1,2057,-7,13
+Real estate activities (L),¼ hour - < ½ hour,15,2322,2.2,13
+Real estate activities (L),½ hour - < ¾ hour,30,1768,8.3,13
+Real estate activities (L),¾ hour - < 1 hour,45,671,13.5,13
+Real estate activities (L),1 hour - < 1½ hours,60,739,27.4,13
+Real estate activities (L),1½ hours and over,90,209,54.8,13
+"Professional, scientific and technical activities (M)",< ¼ hour,1,17167,4.6,14
+"Professional, scientific and technical activities (M)",¼ hour - < ½ hour,15,29164,15.8,14
+"Professional, scientific and technical activities (M)",½ hour - < ¾ hour,30,25229,23.4,14
+"Professional, scientific and technical activities (M)",¾ hour - < 1 hour,45,11048,30.5,14
+"Professional, scientific and technical activities (M)",1 hour - < 1½ hours,60,11930,46.3,14
+"Professional, scientific and technical activities (M)",1½ hours and over,90,4283,51.3,14
+Administrative and support service activities (N),< ¼ hour,1,12780,4.4,15
+Administrative and support service activities (N),¼ hour - < ½ hour,15,20671,13.9,15
+Administrative and support service activities (N),½ hour - < ¾ hour,30,16516,19.8,15
+Administrative and support service activities (N),¾ hour - < 1 hour,45,5687,26.2,15
+Administrative and support service activities (N),1 hour - < 1½ hours,60,6532,35,15
+Administrative and support service activities (N),1½ hours and over,90,2247,30.3,15
+Public administration and defence; compulsory social security (O),< ¼ hour,1,18307,-11.2,16
+Public administration and defence; compulsory social security (O),¼ hour - < ½ hour,15,30251,-10.5,16
+Public administration and defence; compulsory social security (O),½ hour - < ¾ hour,30,26692,-5.9,16
+Public administration and defence; compulsory social security (O),¾ hour - < 1 hour,45,11447,-4.3,16
+Public administration and defence; compulsory social security (O),1 hour - < 1½ hours,60,10623,6.4,16
+Public administration and defence; compulsory social security (O),1½ hours and over,90,3482,7.9,16
+Education (P),< ¼ hour,1,45865,1,17
+Education (P),¼ hour - < ½ hour,15,58192,3.1,17
+Education (P),½ hour - < ¾ hour,30,35912,9.1,17
+Education (P),¾ hour - < 1 hour,45,13152,13.5,17
+Education (P),1 hour - < 1½ hours,60,10512,24.9,17
+Education (P),1½ hours and over,90,3532,27.5,17
+Human health and social work activities (Q),< ¼ hour,1,51899,2.7,18
+Human health and social work activities (Q),¼ hour - < ½ hour,15,74028,10.8,18
+Human health and social work activities (Q),½ hour - < ¾ hour,30,49177,18.1,18
+Human health and social work activities (Q),¾ hour - < 1 hour,45,17475,22.9,18
+Human health and social work activities (Q),1 hour - < 1½ hours,60,14429,34.6,18
+Human health and social work activities (Q),1½ hours and over,90,4341,30.9,18
+"Arts, entertainment and recreation (R)",< ¼ hour,1,8493,5.3,19
+"Arts, entertainment and recreation (R)",¼ hour - < ½ hour,15,9565,5.8,19
+"Arts, entertainment and recreation (R)",½ hour - < ¾ hour,30,6112,9.5,19
+"Arts, entertainment and recreation (R)",¾ hour - < 1 hour,45,2129,17,19
+"Arts, entertainment and recreation (R)",1 hour - < 1½ hours,60,2266,32.1,19
+"Arts, entertainment and recreation (R)",1½ hours and over,90,932,34.3,19
+Other service activities (S),< ¼ hour,1,12384,2.9,20
+Other service activities (S),¼ hour - < ½ hour,15,11995,9,20
+Other service activities (S),½ hour - < ¾ hour,30,7116,8.7,20
+Other service activities (S),¾ hour - < 1 hour,45,2166,4.2,20
+Other service activities (S),1 hour - < 1½ hours,60,2103,13.4,20
+Other service activities (S),1½ hours and over,90,676,21.2,20
+Activities of households as employers producing activities of households for own use (T),< ¼ hour,1,445,25,21
+Activities of households as employers producing activities of households for own use (T),¼ hour - < ½ hour,15,500,40.9,21
+Activities of households as employers producing activities of households for own use (T),½ hour - < ¾ hour,30,293,45.8,21
+Activities of households as employers producing activities of households for own use (T),¾ hour - < 1 hour,45,95,86.3,21
+Activities of households as employers producing activities of households for own use (T),1 hour - < 1½ hours,60,91,33.8,21
+Activities of households as employers producing activities of households for own use (T),1½ hours and over,90,14,-6.7,21
+Activities of extraterritorial organisations and bodies (U),< ¼ hour,1,97,-34.9,22
+Activities of extraterritorial organisations and bodies (U),¼ hour - < ½ hour,15,175,-16.3,22
+Activities of extraterritorial organisations and bodies (U),½ hour - < ¾ hour,30,181,6.5,22
+Activities of extraterritorial organisations and bodies (U),¾ hour - < 1 hour,45,86,19.4,22
+Activities of extraterritorial organisations and bodies (U),1 hour - < 1½ hours,60,99,37.5,22
+Activities of extraterritorial organisations and bodies (U),1½ hours and over,90,30,0,22
+Industry not stated,< ¼ hour,1,16789,27.4,23
+Industry not stated,¼ hour - < ½ hour,15,19896,28.4,23
+Industry not stated,½ hour - < ¾ hour,30,16484,36.8,23
+Industry not stated,¾ hour - < 1 hour,45,4542,42.1,23
+Industry not stated,1 hour - < 1½ hours,60,6206,61.6,23
+Industry not stated,1½ hours and over,90,2550,67.5,23
