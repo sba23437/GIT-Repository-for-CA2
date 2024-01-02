@@ -1,8 +1,162 @@
-Broad Industrial Group,Travelling Time,Statistic Label,VALUE,Time_Max,Time_Min,Time_Avg,Time_Weighted
-Total at work,< ¼ hour,Persons at work 2016,430221.0,15,1,8.0,3441768.0
-Total at work,¼ hour - < ½ hour,Persons at work 2016,550257.0,30,15,22.5,12380782.5
-Total at work,½ hour - < ¾ hour,Persons at work 2016,396252.0,45,30,37.5,14859450.0
-Total at work,¾ hour - < 1 hour,Persons at work 2016,143351.0,60,45,52.5,7525927.5
-Total at work,1 hour - < 1½ hours,Persons at work 2016,147124.0,90,60,75.0,11034300.0
-Total at work,1½ hours and over,Persons at work 2016,52798.0,90,90,90.0,4751820.0
-Total at work,Not stated,Persons at work 2016,155770.0,0,0,0.0,0.0
+Broad Industrial Group,Commute Times,Statistic Label,Population Size (1000s)
+"Agriculture, forestry and fishing (A)",< ¼ hour,Persons at work 2016,19577.0
+"Agriculture, forestry and fishing (A)",¼ hour - < ½ hour,Persons at work 2016,9910.0
+"Agriculture, forestry and fishing (A)",½ hour - < ¾ hour,Persons at work 2016,5557.0
+"Agriculture, forestry and fishing (A)",¾ hour - < 1 hour,Persons at work 2016,1307.0
+"Agriculture, forestry and fishing (A)",1 hour - < 1½ hours,Persons at work 2016,1878.0
+"Agriculture, forestry and fishing (A)",1½ hours and over,Persons at work 2016,769.0
+"Agriculture, forestry and fishing (A)",Not stated,Persons at work 2016,11458.0
+Mining and quarrying (B),< ¼ hour,Persons at work 2016,1245.0
+Mining and quarrying (B),¼ hour - < ½ hour,Persons at work 2016,1719.0
+Mining and quarrying (B),½ hour - < ¾ hour,Persons at work 2016,969.0
+Mining and quarrying (B),¾ hour - < 1 hour,Persons at work 2016,289.0
+Mining and quarrying (B),1 hour - < 1½ hours,Persons at work 2016,283.0
+Mining and quarrying (B),1½ hours and over,Persons at work 2016,137.0
+Mining and quarrying (B),Not stated,Persons at work 2016,240.0
+Manufacturing (C),< ¼ hour,Persons at work 2016,48163.0
+Manufacturing (C),¼ hour - < ½ hour,Persons at work 2016,65629.0
+Manufacturing (C),½ hour - < ¾ hour,Persons at work 2016,42344.0
+Manufacturing (C),¾ hour - < 1 hour,Persons at work 2016,14609.0
+Manufacturing (C),1 hour - < 1½ hours,Persons at work 2016,12594.0
+Manufacturing (C),1½ hours and over,Persons at work 2016,4325.0
+Manufacturing (C),Not stated,Persons at work 2016,6077.0
+"Electricity, gas, steam and air conditioning supply (D)",< ¼ hour,Persons at work 2016,1500.0
+"Electricity, gas, steam and air conditioning supply (D)",¼ hour - < ½ hour,Persons at work 2016,3360.0
+"Electricity, gas, steam and air conditioning supply (D)",½ hour - < ¾ hour,Persons at work 2016,3303.0
+"Electricity, gas, steam and air conditioning supply (D)",¾ hour - < 1 hour,Persons at work 2016,1447.0
+"Electricity, gas, steam and air conditioning supply (D)",1 hour - < 1½ hours,Persons at work 2016,1645.0
+"Electricity, gas, steam and air conditioning supply (D)",1½ hours and over,Persons at work 2016,712.0
+"Electricity, gas, steam and air conditioning supply (D)",Not stated,Persons at work 2016,459.0
+"Water supply; sewerage, waste management and remediation activities (E)",< ¼ hour,Persons at work 2016,2194.0
+"Water supply; sewerage, waste management and remediation activities (E)",¼ hour - < ½ hour,Persons at work 2016,2998.0
+"Water supply; sewerage, waste management and remediation activities (E)",½ hour - < ¾ hour,Persons at work 2016,2215.0
+"Water supply; sewerage, waste management and remediation activities (E)",¾ hour - < 1 hour,Persons at work 2016,798.0
+"Water supply; sewerage, waste management and remediation activities (E)",1 hour - < 1½ hours,Persons at work 2016,917.0
+"Water supply; sewerage, waste management and remediation activities (E)",1½ hours and over,Persons at work 2016,395.0
+"Water supply; sewerage, waste management and remediation activities (E)",Not stated,Persons at work 2016,448.0
+Construction (F),< ¼ hour,Persons at work 2016,11176.0
+Construction (F),¼ hour - < ½ hour,Persons at work 2016,19724.0
+Construction (F),½ hour - < ¾ hour,Persons at work 2016,26325.0
+Construction (F),¾ hour - < 1 hour,Persons at work 2016,8067.0
+Construction (F),1 hour - < 1½ hours,Persons at work 2016,16035.0
+Construction (F),1½ hours and over,Persons at work 2016,7578.0
+Construction (F),Not stated,Persons at work 2016,8663.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),< ¼ hour,Persons at work 2016,80505.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),¼ hour - < ½ hour,Persons at work 2016,84010.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),½ hour - < ¾ hour,Persons at work 2016,49204.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),¾ hour - < 1 hour,Persons at work 2016,15376.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),1 hour - < 1½ hours,Persons at work 2016,14527.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),1½ hours and over,Persons at work 2016,4803.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),Not stated,Persons at work 2016,9601.0
+Transportation and storage (H),< ¼ hour,Persons at work 2016,18279.0
+Transportation and storage (H),¼ hour - < ½ hour,Persons at work 2016,24569.0
+Transportation and storage (H),½ hour - < ¾ hour,Persons at work 2016,16372.0
+Transportation and storage (H),¾ hour - < 1 hour,Persons at work 2016,5235.0
+Transportation and storage (H),1 hour - < 1½ hours,Persons at work 2016,5106.0
+Transportation and storage (H),1½ hours and over,Persons at work 2016,2254.0
+Transportation and storage (H),Not stated,Persons at work 2016,6150.0
+Accommodation and food service activities (I),< ¼ hour,Persons at work 2016,40566.0
+Accommodation and food service activities (I),¼ hour - < ½ hour,Persons at work 2016,36242.0
+Accommodation and food service activities (I),½ hour - < ¾ hour,Persons at work 2016,18991.0
+Accommodation and food service activities (I),¾ hour - < 1 hour,Persons at work 2016,5260.0
+Accommodation and food service activities (I),1 hour - < 1½ hours,Persons at work 2016,4771.0
+Accommodation and food service activities (I),1½ hours and over,Persons at work 2016,1464.0
+Accommodation and food service activities (I),Not stated,Persons at work 2016,5056.0
+Information and communication (J),< ¼ hour,Persons at work 2016,10748.0
+Information and communication (J),¼ hour - < ½ hour,Persons at work 2016,23175.0
+Information and communication (J),½ hour - < ¾ hour,Persons at work 2016,21911.0
+Information and communication (J),¾ hour - < 1 hour,Persons at work 2016,9883.0
+Information and communication (J),1 hour - < 1½ hours,Persons at work 2016,10315.0
+Information and communication (J),1½ hours and over,Persons at work 2016,3878.0
+Information and communication (J),Not stated,Persons at work 2016,2256.0
+Financial and insurance activities (K),< ¼ hour,Persons at work 2016,9985.0
+Financial and insurance activities (K),¼ hour - < ½ hour,Persons at work 2016,22162.0
+Financial and insurance activities (K),½ hour - < ¾ hour,Persons at work 2016,23581.0
+Financial and insurance activities (K),¾ hour - < 1 hour,Persons at work 2016,12582.0
+Financial and insurance activities (K),1 hour - < 1½ hours,Persons at work 2016,13523.0
+Financial and insurance activities (K),1½ hours and over,Persons at work 2016,4187.0
+Financial and insurance activities (K),Not stated,Persons at work 2016,1642.0
+Real estate activities (L),< ¼ hour,Persons at work 2016,2057.0
+Real estate activities (L),¼ hour - < ½ hour,Persons at work 2016,2322.0
+Real estate activities (L),½ hour - < ¾ hour,Persons at work 2016,1768.0
+Real estate activities (L),¾ hour - < 1 hour,Persons at work 2016,671.0
+Real estate activities (L),1 hour - < 1½ hours,Persons at work 2016,739.0
+Real estate activities (L),1½ hours and over,Persons at work 2016,209.0
+Real estate activities (L),Not stated,Persons at work 2016,370.0
+"Professional, scientific and technical activities (M)",< ¼ hour,Persons at work 2016,17167.0
+"Professional, scientific and technical activities (M)",¼ hour - < ½ hour,Persons at work 2016,29164.0
+"Professional, scientific and technical activities (M)",½ hour - < ¾ hour,Persons at work 2016,25229.0
+"Professional, scientific and technical activities (M)",¾ hour - < 1 hour,Persons at work 2016,11048.0
+"Professional, scientific and technical activities (M)",1 hour - < 1½ hours,Persons at work 2016,11930.0
+"Professional, scientific and technical activities (M)",1½ hours and over,Persons at work 2016,4283.0
+"Professional, scientific and technical activities (M)",Not stated,Persons at work 2016,3405.0
+Administrative and support service activities (N),< ¼ hour,Persons at work 2016,12780.0
+Administrative and support service activities (N),¼ hour - < ½ hour,Persons at work 2016,20671.0
+Administrative and support service activities (N),½ hour - < ¾ hour,Persons at work 2016,16516.0
+Administrative and support service activities (N),¾ hour - < 1 hour,Persons at work 2016,5687.0
+Administrative and support service activities (N),1 hour - < 1½ hours,Persons at work 2016,6532.0
+Administrative and support service activities (N),1½ hours and over,Persons at work 2016,2247.0
+Administrative and support service activities (N),Not stated,Persons at work 2016,3687.0
+Public administration and defence; compulsory social security (O),< ¼ hour,Persons at work 2016,18307.0
+Public administration and defence; compulsory social security (O),¼ hour - < ½ hour,Persons at work 2016,30251.0
+Public administration and defence; compulsory social security (O),½ hour - < ¾ hour,Persons at work 2016,26692.0
+Public administration and defence; compulsory social security (O),¾ hour - < 1 hour,Persons at work 2016,11447.0
+Public administration and defence; compulsory social security (O),1 hour - < 1½ hours,Persons at work 2016,10623.0
+Public administration and defence; compulsory social security (O),1½ hours and over,Persons at work 2016,3482.0
+Public administration and defence; compulsory social security (O),Not stated,Persons at work 2016,2708.0
+Education (P),< ¼ hour,Persons at work 2016,45865.0
+Education (P),¼ hour - < ½ hour,Persons at work 2016,58192.0
+Education (P),½ hour - < ¾ hour,Persons at work 2016,35912.0
+Education (P),¾ hour - < 1 hour,Persons at work 2016,13152.0
+Education (P),1 hour - < 1½ hours,Persons at work 2016,10512.0
+Education (P),1½ hours and over,Persons at work 2016,3532.0
+Education (P),Not stated,Persons at work 2016,4132.0
+Human health and social work activities (Q),< ¼ hour,Persons at work 2016,51899.0
+Human health and social work activities (Q),¼ hour - < ½ hour,Persons at work 2016,74028.0
+Human health and social work activities (Q),½ hour - < ¾ hour,Persons at work 2016,49177.0
+Human health and social work activities (Q),¾ hour - < 1 hour,Persons at work 2016,17475.0
+Human health and social work activities (Q),1 hour - < 1½ hours,Persons at work 2016,14429.0
+Human health and social work activities (Q),1½ hours and over,Persons at work 2016,4341.0
+Human health and social work activities (Q),Not stated,Persons at work 2016,6459.0
+"Arts, entertainment and recreation (R)",< ¼ hour,Persons at work 2016,8493.0
+"Arts, entertainment and recreation (R)",¼ hour - < ½ hour,Persons at work 2016,9565.0
+"Arts, entertainment and recreation (R)",½ hour - < ¾ hour,Persons at work 2016,6112.0
+"Arts, entertainment and recreation (R)",¾ hour - < 1 hour,Persons at work 2016,2129.0
+"Arts, entertainment and recreation (R)",1 hour - < 1½ hours,Persons at work 2016,2266.0
+"Arts, entertainment and recreation (R)",1½ hours and over,Persons at work 2016,932.0
+"Arts, entertainment and recreation (R)",Not stated,Persons at work 2016,1673.0
+Other service activities (S),< ¼ hour,Persons at work 2016,12384.0
+Other service activities (S),¼ hour - < ½ hour,Persons at work 2016,11995.0
+Other service activities (S),½ hour - < ¾ hour,Persons at work 2016,7116.0
+Other service activities (S),¾ hour - < 1 hour,Persons at work 2016,2166.0
+Other service activities (S),1 hour - < 1½ hours,Persons at work 2016,2103.0
+Other service activities (S),1½ hours and over,Persons at work 2016,676.0
+Other service activities (S),Not stated,Persons at work 2016,2275.0
+Activities of households as employers producing activities of households for own use (T),< ¼ hour,Persons at work 2016,445.0
+Activities of households as employers producing activities of households for own use (T),¼ hour - < ½ hour,Persons at work 2016,500.0
+Activities of households as employers producing activities of households for own use (T),½ hour - < ¾ hour,Persons at work 2016,293.0
+Activities of households as employers producing activities of households for own use (T),¾ hour - < 1 hour,Persons at work 2016,95.0
+Activities of households as employers producing activities of households for own use (T),1 hour - < 1½ hours,Persons at work 2016,91.0
+Activities of households as employers producing activities of households for own use (T),1½ hours and over,Persons at work 2016,14.0
+Activities of households as employers producing activities of households for own use (T),Not stated,Persons at work 2016,289.0
+Activities of extraterritorial organisations and bodies (U),< ¼ hour,Persons at work 2016,97.0
+Activities of extraterritorial organisations and bodies (U),¼ hour - < ½ hour,Persons at work 2016,175.0
+Activities of extraterritorial organisations and bodies (U),½ hour - < ¾ hour,Persons at work 2016,181.0
+Activities of extraterritorial organisations and bodies (U),¾ hour - < 1 hour,Persons at work 2016,86.0
+Activities of extraterritorial organisations and bodies (U),1 hour - < 1½ hours,Persons at work 2016,99.0
+Activities of extraterritorial organisations and bodies (U),1½ hours and over,Persons at work 2016,30.0
+Activities of extraterritorial organisations and bodies (U),Not stated,Persons at work 2016,34.0
+Industry not stated,< ¼ hour,Persons at work 2016,16789.0
+Industry not stated,¼ hour - < ½ hour,Persons at work 2016,19896.0
+Industry not stated,½ hour - < ¾ hour,Persons at work 2016,16484.0
+Industry not stated,¾ hour - < 1 hour,Persons at work 2016,4542.0
+Industry not stated,1 hour - < 1½ hours,Persons at work 2016,6206.0
+Industry not stated,1½ hours and over,Persons at work 2016,2550.0
+Industry not stated,Not stated,Persons at work 2016,78688.0
+Total at work,< ¼ hour,Persons at work 2016,430221.0
+Total at work,¼ hour - < ½ hour,Persons at work 2016,550257.0
+Total at work,½ hour - < ¾ hour,Persons at work 2016,396252.0
+Total at work,¾ hour - < 1 hour,Persons at work 2016,143351.0
+Total at work,1 hour - < 1½ hours,Persons at work 2016,147124.0
+Total at work,1½ hours and over,Persons at work 2016,52798.0
+Total at work,Not stated,Persons at work 2016,155770.0
